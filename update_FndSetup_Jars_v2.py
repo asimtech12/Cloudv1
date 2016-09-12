@@ -1,5 +1,5 @@
 #==========================================================================================================
-#  @author Joseph George
+#  @
 #  This script has the operating System specific Command which modifies jar manifest in windows paltform
 #==========================================================================================================
 # Imports
